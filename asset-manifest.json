@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yugkwmt.github.io/csb-krcuc/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yugkwmt.github.io/csb-krcuc/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://yugkwmt.github.io/csb-krcuc/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://yugkwmt.github.io/csb-krcuc/static/js/runtime-main.0e802aa5.js",
+    "runtime-main.js.map": "https://yugkwmt.github.io/csb-krcuc/static/js/runtime-main.0e802aa5.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://yugkwmt.github.io/csb-krcuc/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://yugkwmt.github.io/csb-krcuc/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://yugkwmt.github.io/csb-krcuc/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yugkwmt.github.io/csb-krcuc/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://yugkwmt.github.io/csb-krcuc/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e802aa5.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
